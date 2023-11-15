@@ -3,10 +3,10 @@ const Navigat = () => {
   return (
     <div className="max-w-[1240px] mx-auto px-36 py-20">
       <div className="flex flex-row card">
-        <figure><img className="h-[450px] w-[1400px]" src="/src/assets/img/navigating.png" alt="Album" /></figure>
+        <figure><img className="h-[450px] w-[1400px]" src="src/assets/img/navigating.png" alt="Album" /></figure>
         <div className="mt-24 pl-20">
           <div className="flex flex-row items-center uppercase space-x-2 text-xs font-bold leading-3 tracking-widest pb-4">
-            <img className="w-[10px] h-[10px]" src="/src/assets/img/arrow01.svg.svg" alt="" />
+            <img className="w-[10px] h-[10px]" src="src/assets/img/arrow01.svg.svg" alt="" />
             <p>about us</p>
           </div>
           <h2 className="text-4xl">Navigating the technology

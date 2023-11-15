@@ -4,11 +4,11 @@ const Put = () => {
     <div className=" max-w-[1240px] mx-auto py-20 px-32 bg-black">
       <div className="flex flex-row">
         <div>
-          <img className="" src="/src/assets/img/put.png" alt="Album" />
+          <img className="" src="src/assets/img/put.png" alt="Album" />
         </div>
         <div className="mt-24 pl-20">
           <div className="text-white flex flex-row items-center space-x-2">
-            <img className="bg-white w-[10px] h-[10px]" src="/src/assets/img/arrow01.svg.svg" alt="" />
+            <img className="bg-white w-[10px] h-[10px]" src="src/assets/img/arrow01.svg.svg" alt="" />
             <p className="text-xs font-bold tracking-widest uppercase">why optinet</p>
           </div>
 

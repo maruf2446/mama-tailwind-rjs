@@ -4,11 +4,11 @@ const ConnectivCard = () => {
   return (
     <div className="max-w-[1240px] mx-auto pb-20 px-36">
       <div className=" flex flex-row">
-        <figure><img className="h-[550px] w-[850px]" src="/src/assets/img/connectiv.png" alt="Album" /></figure>
+        <figure><img className="h-[550px] w-[850px]" src="src/assets/img/connectiv.png" alt="Album" /></figure>
         <div className="card-body pl-20 mt-16">
 
           <div className="flex flex-row items-center uppercase text-xs font-bold leading-3 tracking-widest pb-4">
-            <img className="w-[28px] h-[19px] ml-4" src="/src/assets/img/conne.svg" alt="" />
+            <img className="w-[28px] h-[19px] ml-4" src="src/assets/img/conne.svg" alt="" />
             <p className="text-4xl font-bold leading-8 tracking-wider pl-3">Connectivity</p>
           </div>
           <p className="mt-3 text-sm font-normal ml-16">Last mile or first mile, fibre or copper, Ethernet or wireless, 20Mbs or 100Gbs - well always find the best-performing connectivity to fit your needs and location.</p>
