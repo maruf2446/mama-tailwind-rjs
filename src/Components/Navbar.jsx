@@ -1,3 +1,4 @@
+import img1 from "../assets/img/download (1).png" 
 
 import { useState } from 'react';
 
@@ -16,7 +17,7 @@ const Navbar = () => {
       <div className="md:flex items-center justify-between py-4 md:px-20 px-7">
         <div className="font-bold text-2xl cursor-pointer flex items-center font-[Poppins] text-gray-800">
           <span>
-            <img className="h-10 w-10" src="src/assets/img/download (1).png" alt="" />
+            <img className="h-10 w-10" src={img1} alt="" />
           </span>
           Desinger
         </div>

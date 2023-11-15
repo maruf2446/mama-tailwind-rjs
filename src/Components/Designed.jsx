@@ -1,3 +1,4 @@
+import img1 from "../assets/img/arrow01.svg.svg"
 
 const Designed = () => {
   return (
@@ -5,7 +6,7 @@ const Designed = () => {
       <div className="text-4xl text-center font-light">
 
         <div className="flex flex-row items-center justify-center uppercase space-x-2 text-xs font-bold leading-3 tracking-widest pb-4">
-          <img className="bg-white w-[10px] h-[10px]" src="src/assets/img/arrow01.svg.svg" alt="" />
+          <img className="bg-white w-[10px] h-[10px]" src={img1} alt="" />
           <p>our network</p>
         </div>
         <h1>Designed With the latest technoogy for</h1>

@@ -1,6 +1,4 @@
-/* .Hood{
-  background-image: url(/src/assets/img/hood.png);
-  width: 1240px;
-  height: 810px;
-  
-} */
+.hood{
+  background: url(../../assets//img/hood.png);
+
+}
